@@ -1,5 +1,5 @@
 # HouseSalesDashboard
 Interactive dashboard for house sales
 # Visualisation 
-![Dashboard](tab house.png)
+![Alt text](/HouseSalesDashboard/tab house.png "Optional title")
 
