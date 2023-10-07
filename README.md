@@ -1,5 +1,5 @@
 # HouseSalesDashboard
 Interactive dashboard for house sales
 # Visualisation 
-![My Image](tab house.jpg)
+![Dashboard](tab house.png)
 
